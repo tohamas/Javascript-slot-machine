@@ -1,2 +1,2 @@
-# slot-machine
+# Javascript Slot Machine
 Javascript Slot Machine
